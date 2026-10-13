@@ -27,7 +27,7 @@ export default function Login() {
         {error && <p className="error">{error}</p>}
         <button>Log in</button>
       </form>
-     ss
+  
     </div>
   )
 }
