@@ -27,7 +27,7 @@ export default function Login() {
         {error && <p className="error">{error}</p>}
         <button>Log in</button>
       </form>
-      <p className="muted">Demo users: alice@test.com, bob@test.com, carol@test.com (password: password123)</p>
+     ss
     </div>
   )
 }
